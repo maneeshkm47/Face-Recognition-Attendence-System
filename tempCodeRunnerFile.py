@@ -1,0 +1,1 @@
+coord=draw_boundary(img,faceCascade,1.1,10,(255,25,255),"Face",clf)
